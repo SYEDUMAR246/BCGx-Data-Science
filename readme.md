@@ -53,14 +53,15 @@ This experience sharpened my practical data science skills:
 
 ---
 
-## 📂 Repository Structure (Optional Example)
-
+## 📂 Repository Structure
 ```plaintext
 .
-├── data/                # Raw and processed datasets
-├── notebooks/           # Jupyter Notebooks for EDA and modeling
-├── outputs/             # Visualizations, reports, and summaries
-├── README.md            # Project overview
+├── Executive Summary Model Answer.pdf
+├──Task 2 - Model Answer - EDA (2).ipynb
+├──Task 2 Email.docx
+├──Task 3 - Model Answer - Feature Engineering (1).ipynb
+├──Task 4 - Model Answer - Modeling.ipynb
+├──readme.md
 ```
 ## 🧾 Acknowledgments
 
